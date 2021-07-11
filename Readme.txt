@@ -1,0 +1,3 @@
+In this fully trained computer vision project, I build two models to detect honey bees and bumble bees automatically. First, with a supervised 6-neighbour K-NN model, the accuracy was 0.58, and the AUC was 0.62. Then I applied a support vector machine (SVM), another type of supervised machine learning model. As a result, the accuracy ultimately improved to 68%, with an AUC of 0.74.
+
+The datasets from datacamp were in a brokn .zip file hence are unavailable.
